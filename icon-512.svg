@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="100" fill="#4ADE80"/>
+  <circle cx="256" cy="256" r="155" fill="none" stroke="#0a0a0a" stroke-width="8" opacity="0.3"/>
+  <circle cx="256" cy="256" r="122" fill="none" stroke="#0a0a0a" stroke-width="4" opacity="0.15"/>
+  <!-- N/S/E/W tick marks -->
+  <line x1="256" y1="90" x2="256" y2="105" stroke="#0a0a0a" stroke-width="4" opacity="0.3"/>
+  <line x1="256" y1="407" x2="256" y2="422" stroke="#0a0a0a" stroke-width="4" opacity="0.3"/>
+  <line x1="90" y1="256" x2="105" y2="256" stroke="#0a0a0a" stroke-width="4" opacity="0.3"/>
+  <line x1="407" y1="256" x2="422" y2="256" stroke="#0a0a0a" stroke-width="4" opacity="0.3"/>
+  <!-- Compass points -->
+  <polygon points="256,112 274,240 256,262 238,240" fill="#0a0a0a"/>
+  <polygon points="256,400 238,262 256,240 274,262" fill="#0a0a0a" opacity="0.35"/>
+  <polygon points="112,256 240,238 262,256 240,274" fill="#0a0a0a" opacity="0.35"/>
+  <polygon points="400,256 262,274 240,256 262,238" fill="#0a0a0a"/>
+  <circle cx="256" cy="256" r="14" fill="#0a0a0a"/>
+  <circle cx="256" cy="256" r="6" fill="#4ADE80"/>
+</svg>
