@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dad-does-v3';
+const CACHE_NAME = 'dad-does-v4';
 
 self.addEventListener('install', event => {
   self.skipWaiting();
