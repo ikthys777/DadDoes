@@ -1,4 +1,4 @@
-const CACHE_NAME = 'dad-does-v16';
+const CACHE_NAME = 'dad-does-v17';
 const ASSETS = ['index.html', 'manifest.json', 'icon-192.svg'];
 
 self.addEventListener('install', e => {
